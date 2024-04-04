@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+Z7dgIYXgxrEoyKctOxRPo5ehawItmWENYACnYWHC4s=",
+  "Source": "MongodbWebApi",
+  "BasePath": "_content/MongodbWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
